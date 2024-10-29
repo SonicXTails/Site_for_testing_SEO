@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /404.html
+Disallow: /comming-soon.html
+Disallow: /sign-in.html
+Disallow: /sign-up.html
+
+Allow: /homepage-2.html
+Allow: /homepage-3.html      
+Allow: /index.html     
+Allow: /team.html      
+Allow: /blog.html
+
+Sitemap: https://site-for-testing-seo.vercel.app/sitemap.xml
